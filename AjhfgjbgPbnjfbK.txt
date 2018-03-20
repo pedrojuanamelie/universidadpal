@@ -12,7 +12,7 @@ url="https://archive.org/download/Chrome65.0.3325.109/Archos%20V%C3%ADdeo_10.2-2
 icon="https://i.imgur.com/oKyoRNS.png"
 fanart=""
 adult="no"
-description="Reproductor Archos Video Player, por si se quiere reproducir algún contenido fuera de Kodi"
+description="Reproductor Archos Video Player, por si se quiere reproducir algun contenido fuera de Kodi"
 
 name="Navegador web Chrome"
 section="no"
