@@ -7,15 +7,13 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
-name="ES Explorer Pro (Tema blanco para TV)"
+name="ES Explorer Pro Tema blanco para TV"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Material%20Theme_2.0.3.apk"
 icon="https://i.imgur.com/fFXGKG9.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="X-Plore"
 section="no"
@@ -25,15 +23,13 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
-name="Spotify (Android TV)"
+name="Spotify Android TV"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Spotify_1.6.3.apk"
 icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="ZArchiver"
 section="no"
@@ -43,7 +39,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Acestream engine"
 section="no"
 url="https://archive.org/download/AceStreamEngine3.1.24.2/Ace%20Stream%20Engine_3.1.24.2.apk"
@@ -51,7 +46,6 @@ icon="https://i.imgur.com/7iMR64V.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description="Motor Acestream para hacer funcionar los enlaces ace en Torrent Streamer Controller"
-
 
 name="Sopcast"
 section="no"
@@ -61,7 +55,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Torrent Stream Controller"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Torrent%20Stream%20Controller_1.6.30.apk"
@@ -69,7 +62,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="Navegador web Chrome"
 section="no"
@@ -79,7 +71,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description="Navegador oficial de Google para Android TV"
 
-
 name="Rotation"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Rotation_6.0.8.apk"
@@ -87,7 +78,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="Rotation Key"
 section="no"
@@ -97,7 +87,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="TVHZ"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/TVHZ_1.01.apk"
@@ -105,7 +94,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="Sideload launcher"
 section="no"
@@ -115,7 +103,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Clan RTVE"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Clan%20RTVE%20Android%20TV_1.4.apk"
@@ -123,7 +110,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="RTVE a la carta"
 section="no"
@@ -133,7 +119,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="bEIN Connect TV"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/beIN%20CONNECT_2.0.apk"
@@ -141,7 +126,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="Movistar+"
 section="no"
@@ -151,7 +135,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Reproductor Archos Video Player Free"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Archos%20V%C3%ADdeo_10.2-20180303.2237.apk"
@@ -159,7 +142,6 @@ icon="https://i.imgur.com/GKhYtWR.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description="Reproductor Archos Video Player, por si se quiere reproducir algun contenido fuera de Kodi"
-
 
 name="Reproductor MX Player Free"
 section="no"
@@ -169,7 +151,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description="Reproductor MX Player Player, por si se quiere reproducir algun contenido fuera de Kodi"
 
-
 name="Reproductor VLC"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/VLC_3.0.4.apk"
@@ -177,7 +158,6 @@ icon="https://i.imgur.com/oKyoRNS.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description="Reproductor VLC, por si se quiere reproducir algun contenido fuera de Kodi"
-
 
 name="Hyperspin (Frontend para emuladores)"
 section="no"
@@ -187,7 +167,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Retroarch (Backend para emuladores)"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/RetroArch_1.7.1.apk"
@@ -195,7 +174,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="Colem Free (Emulador)"
 section="no"
@@ -205,7 +183,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Dolphin (Emulador)"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Dolphin%20Emulator_5.0-6485.apk"
@@ -213,7 +190,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="MAME4Droid (Emulador)"
 section="no"
@@ -223,7 +199,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="PCE (Emulador)"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/PCE.emu_1.5.25.apk"
@@ -231,7 +206,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="ScummVM (Emulador)"
 section="no"
@@ -241,7 +215,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Speccy (Emulador)"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/Speccy_4.6.2.apk"
@@ -249,7 +222,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="fMSX (Emulador)"
 section="no"
@@ -259,7 +231,6 @@ fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
 
-
 name="Reicast (Emulador)"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/reicast_r7.apk"
@@ -267,7 +238,6 @@ icon="https://i.imgur.com/CZ5BZ9t.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
 description=""
-
 
 name="uoYabause (Emulador)"
 section="no"
