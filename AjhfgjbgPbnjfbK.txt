@@ -8,9 +8,17 @@ description="Acestream Engine, necesario para el protocolo P2P Acestream"
 
 name="Archos Video Player Free"
 section="no"
-url="https://archive.org/download/AceStreamEngine3.1.24.2/Archos%20V%C3%ADdeo_10.2-20180303.2237.apk"
+url="https://archive.org/download/Chrome65.0.3325.109/Archos%20V%C3%ADdeo_10.2-20180303.2237.apk"
 icon="https://i.imgur.com/oKyoRNS.png"
 fanart=""
 adult="no"
 description="Reproductor Archos Video Player, por si se quiere reproducir algún contenido fuera de Kodi"
+
+name="Navegador web Chrome"
+section="no"
+url="https://archive.org/download/Chrome65.0.3325.109/Chrome_65.0.3325.109.apk"
+icon=""
+fanart=""
+adult="no"
+description="blbl"
 
