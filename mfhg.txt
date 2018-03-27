@@ -1,7 +1,7 @@
 name="SalonDigital Lite"
 version="4.0"
 url="https://archive.org/download/sevilla_barcelona_2016/sevilla_barcelona_2016.zip"
-gui="http://"
+gui="https://archive.org/download/SDGuisettings/SD_guisettings.zip"
 kodi="17"
 theme="http://"
 icon="https://i.imgur.com/tTO8xfZ.png"
