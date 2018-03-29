@@ -1,5 +1,5 @@
 name="SalonDigital 4.0 Tema por Defecto"
-url="http://archive.org/download/sd-tema/sd-tema.zip"
+url="https://archive.org/download/sd-tema_201803/sd-tema.zip"
 icon="https://i.imgur.com/tTO8xfZ.png"
 fanart="https://i.imgur.com/tPDCUYd.png"
 adult="no"
