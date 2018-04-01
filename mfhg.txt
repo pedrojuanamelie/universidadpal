@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="4.0"
-url="https://archive.org/download/spot_agua_2018/spot_agua_2018.zip"
+url="https://archive.org/download/pruebas_fotos/pruebas_fotos.zip"
 gui="https://archive.org/download/sd-tema_201803/guifix-4.0_guisettings.zip"
 kodi="17"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tndemijra.txt"
