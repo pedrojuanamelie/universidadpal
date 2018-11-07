@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="4.0.1"
-url="https://archive.org/download/sardinaslt/sardinaslt.zip"
+url="https://archive.org/download/sd4012/sd4012.zip"
 gui="https://archive.org/download/guiset/guiset.zip"
 kodi="17"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda2.txt"
