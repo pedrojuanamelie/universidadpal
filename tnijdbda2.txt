@@ -1,4 +1,3 @@
-
 name="SalonDigital 4.0.1 Tema por Defecto"
 url="https://archive.org/download/loladromero23_gmail_Tema/tema.zip"
 icon="https://i.imgur.com/tTO8xfZ.png"

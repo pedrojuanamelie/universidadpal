@@ -1,4 +1,3 @@
-
 name="SalonDigital Lite"
 version="4.0"
 url="https://archive.org/download/trabajo_clase/trabajo_clase.zip"
