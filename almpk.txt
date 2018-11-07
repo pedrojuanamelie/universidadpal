@@ -1,4 +1,4 @@
-
+﻿
 name="ES Explorer Pro"
 section="no"
 url="https://archive.org/download/Chrome65.0.3325.109/ES%20Explorador%20de%20Archivos%20PRO_Pro%201.0.8.apk"
@@ -65,7 +65,7 @@ description="App que controla las llamadas de archivos con protocolo Ace"
 
 name="Navegador web Google Chrome"
 section="no"
-url="https://archive.org/download/Chrome65.0.3325.109/Chrome_65.0.3325.109.apk"
+url="https://archive.org/download/chrome_201811/chrome.apk"
 icon="https://i.imgur.com/EAgA3Qm.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
@@ -185,7 +185,7 @@ description="Emulador para juegos de Colecovision"
 
 name="Dolphin (Emulador de GameCube y Wii)"
 section="no"
-url="https://archive.org/download/Chrome65.0.3325.109/Dolphin%20Emulator_5.0-6485.apk"
+url="https://archive.org/download/dolphin-master-5.0-8993/dolphin-master-5.0-8993.apk"
 icon="https://i.imgur.com/ecf30wf.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
@@ -233,7 +233,7 @@ description="Emulador para juegos de MSX"
 
 name="Reicast (Emulador de Dreamcast)"
 section="no"
-url="https://archive.org/download/Chrome65.0.3325.109/reicast_r7.apk"
+url="https://archive.org/download/reicast-android-debug-75d319e/reicast-android-debug-75d319e.apk"
 icon="https://i.imgur.com/hVrvYnm.png"
 fanart="http://images.elements-net.de/misc/kodi/background-cube.jpg"
 adult="no"
