@@ -1,0 +1,6 @@
+name="SalonDigital Redux 4.0.1 Tema por Defecto"
+url="https://archive.org/download/loladromero23_gmail_Tema/tema.zip"
+icon="https://i.imgur.com/tTO8xfZ.png"
+fanart="https://i.imgur.com/tPDCUYd.png"
+adult="no"
+description="Tema por defecto para la version 4.0.1 de SalonDigital Redux para tvOS, usar en caso de que la skin se haya puesto en valores por defecto"
