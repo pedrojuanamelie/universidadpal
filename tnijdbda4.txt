@@ -1,0 +1,6 @@
+name="SalonDigital Lite 5.0.0 Tema por Defecto"
+url="https://archive.org/download/sd50tema/sd50tema.zip"
+icon="https://i.imgur.com/tTO8xfZ.png"
+fanart="https://i.imgur.com/tPDCUYd.png"
+adult="no"
+description="Tema por defecto para la version 5.0.0 de SalonDigital Lite para la Shield TV, usar en caso de que la skin se haya puesto en valores por defecto"
