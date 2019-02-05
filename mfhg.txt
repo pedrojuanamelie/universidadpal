@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="5.0.0"
-url="https://archive.org/download/perros_2019/perros_2019.zip"
+url="https://archive.org/download/sd5.0final/sd5.0final.zip"
 gui="https://archive.org/download/sd5gui/sd5gui.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda4.txt"
