@@ -1,5 +1,5 @@
 name="SalonDigital Lite 5.0.0 Tema por Defecto"
-url="https://archive.org/download/sd50tema/sd50tema.zip"
+url="https://archive.org/download/sd50tema_201902/sd50tema.zip"
 icon="https://i.imgur.com/tTO8xfZ.png"
 fanart="https://i.imgur.com/tPDCUYd.png"
 adult="no"
