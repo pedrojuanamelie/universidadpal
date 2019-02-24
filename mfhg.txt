@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="5.0.0"
-url="https://archive.org/download/loladromero23_gmail_Sd50_201902/sd50.zip"
+url="https://archive.org/download/sd501/sd501.zip"
 gui="https://archive.org/download/sd50_guisettings/sd50_guisettings.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda4.txt"
