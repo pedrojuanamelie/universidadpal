@@ -10,7 +10,7 @@ preview="http://"
 adult="No"
 description="Version 5.0.0 de SalonDigital Lite para Nvidia Shield, solo para Leia"
 
-name="SalonDigital Lite"
+name="SalonDigital Lite 6.0"
 version="6.0.0"
 url="https://archive.org/download/loladromero23_gmail_6.0_201904/6.0.zip"
 gui="https://archive.org/download/6guisettings/6guisettings.zip"
