@@ -1,4 +1,3 @@
-
 name="SalonDigital Lite"
 version="5.0.0"
 url="https://archive.org/download/loladromero23_gmail_Sd50_201902/sd50.zip"
