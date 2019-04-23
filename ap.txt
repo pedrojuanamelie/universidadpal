@@ -2,6 +2,7 @@
 name="Addons Pack"
 version="6.0.0"
 url="https://archive.org/download/ultra_201904/ultra.zip"
+minor="http://"
 gui="https://archive.org/download/6guifinal/6guifinal.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda4.txt"
