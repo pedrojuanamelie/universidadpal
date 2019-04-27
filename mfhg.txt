@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="6.0.0"
-url="https://archive.org/download/sd60rect/sd60rect.zip"
+url="https://archive.org/download/sd60rect2/sd60rect2.zip"
 gui="https://archive.org/download/6guifinal/6guifinal.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda4.txt"
