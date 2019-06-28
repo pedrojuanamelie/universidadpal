@@ -1,0 +1,6 @@
+name="SalonDigital Mini 6.0.0"
+url="https://archive.org/download/tema_20190628/tema.zip"
+icon="https://i.imgur.com/tTO8xfZ.png"
+fanart="https://i.imgur.com/tPDCUYd.png"
+adult="no"
+description="Tema por defecto para la version 6.0.0 de SalonDigital Mini"
