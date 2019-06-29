@@ -1,6 +1,6 @@
 name="SalonDigital Mini"
 version="6.0.0"
-url="https://archive.org/download/fghhj_20190628/fghhj.zip"
+url="https://archive.org/download/fgtfhg/fgtfhg.zip"
 gui="https://archive.org/download/skin_guisettings/skin_guisettings.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda5.txt"
