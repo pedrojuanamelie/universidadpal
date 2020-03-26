@@ -1,6 +1,6 @@
 name="SalonDigital Lite"
 version="6.5.0"
-url="https://archive.org/download/consejos_oms/consejos_oms.zip"
+url="https://archive.org/download/musica_20200326/MUSICA.zip"
 gui="https://archive.org/download/revision_notas_sep/revision_notas_sep.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/tnijdbda4.txt"
