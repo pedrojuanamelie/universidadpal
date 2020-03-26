@@ -29,55 +29,55 @@ if os.path.isfile(PATH1) and os.access(PATH1, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.cristalazul/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.cristalazul')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.cristalazul')
+    echo ""
 	
 if os.path.isfile(PATH2) and os.access(PATH2, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.festa/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.festa')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.festa')
+    echo ""
 	
 if os.path.isfile(PATH3) and os.access(PATH3, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.palantir/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.palantir')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.palantir')
+    echo ""
 
 if os.path.isfile(PATH4) and os.access(PATH4, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.balandro/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.balandro')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.balandro')
+    echo ""
 	
 if os.path.isfile(PATH5) and os.access(PATH5, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.alfa/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.alfa')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.alfa')
+    echo ""
 	
 if os.path.isfile(PATH6) and os.access(PATH6, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.1x2/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.1x2')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.1x2')
+    echo ""
 	
 if os.path.isfile(PATH7) and os.access(PATH7, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.Agora/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.Agora')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.Agora')
+    echo ""
 	
 if os.path.isfile(PATH8) and os.access(PATH8, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.tvchopo/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.tvchopo')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.tvchopo')
+    echo ""
 	
 if os.path.isfile(PATH9) and os.access(PATH9, os.R_OK):
     os.remove("/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.mundocine/checkbad.py")
     shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.mundocine')
 else:
-    shutil.copy('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py', '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.mundocine')
+    echo ""
 
 ##AUTO-UPDATE-AUTOEXEC
 if os.path.isfile(PATH0) and os.access(PATH0, os.R_OK):
