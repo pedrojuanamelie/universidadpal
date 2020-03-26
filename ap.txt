@@ -1,6 +1,6 @@
 name="Addonspack Shield TV"
 version="1.0.0"
-url="https://archive.org/download/receta_patatas_fritas/receta_patatas_fritas.zip"
+url="https://archive.org/download/sayanora_baby/sayanora_baby.zip"
 gui="http://"
 kodi="18"
 theme="http://"
