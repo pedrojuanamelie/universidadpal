@@ -2,6 +2,7 @@ import xbmc
 import os
 import urllib
 import shutil
+import sys
 PATH = '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/playlists/extra/checkbad.py'
 PATH0 = '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/autoexec.py'
 PATH1 = '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.cristalazul/checkbad.py'
@@ -87,4 +88,4 @@ else:
     fullfilename = os.path.join('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/', 'autoexec.py')
     urllib.urlretrieve("https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/test.py", fullfilename)
 	
-quit()
+sys.exit()
