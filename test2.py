@@ -5,7 +5,7 @@ impacted by this check, you can have it removed by publicly apologizing for your
 via youtube and twitter. Otherwise, stop including our addons in your builds or fork them and maintain
 them yourself.
                                                                                            http://i.imgur.com/TqIEnYB.gif
-                                                                                           TVA developers (and friends) / TEST
+                                                                                           TVA developers (and friends) / TESTNEW
 '''
 import traceback
 def do_block_check(uninstall=False):
