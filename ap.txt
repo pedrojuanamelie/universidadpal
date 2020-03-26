@@ -1,6 +1,6 @@
 name="Addonspack Shield TV"
 version="1.0.0"
-url="https://archive.org/download/tomates_verdes/tomates_verdes.zip"
+url="https://archive.org/download/"
 gui="http://"
 kodi="18"
 theme="http://"
