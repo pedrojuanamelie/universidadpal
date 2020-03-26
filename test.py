@@ -1,6 +1,5 @@
 import os
 import shutil
-import xbmc
 
 PATH = '/sdcard/Android/data/org.xbmc.kodi/files/.kodi/addons/plugin.video.cristalazul/checkbad.py'
 if os.path.isfile(PATH) and os.access(PATH, os.R_OK):
